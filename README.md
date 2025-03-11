@@ -6,6 +6,9 @@
 - To evaluate sales distribution across different regions, markets, and product categories.  
 - To identify key insights that can drive business decisions.  
 
+## Dataset
+[Dataset.csv](https://github.com/srijareddy1284/market_analysis/blob/main/global_superstore_2016.xlsx)
+
 ## Key Analytical Questions
 - What are the total sales and profits for the current year to date?  
 - How do the current year-to-date sales and profits compare to the previous year?  
