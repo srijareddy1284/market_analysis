@@ -21,6 +21,9 @@
 - Dashboard creation with interactive filters and charts.  
 - Analysis and insights extraction.  
 
+## Dashboard
+![Dashboard Screenshot](https://github.com/srijareddy1284/market_analysis/blob/main/Screenshot%202025-03-11%20210320.png)
+
 ## Project Insights
 - Identification of high-revenue and low-revenue regions.  
 - Trends in sales and profit fluctuations across different time periods.  
